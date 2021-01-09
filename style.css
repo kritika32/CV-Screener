@@ -1,0 +1,14 @@
+body{
+    background: url(image/back8.png);
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+}
+
+#block{
+    background:url(image/back8.png);
+     border: 9px solid rgb(68, 109, 103);
+     background-repeat: no-repeat;
+     background-position:center ;
+     background-size: cover;
+}
